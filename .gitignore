@@ -31,3 +31,7 @@ logs/
 
 # IntelliJ / PyCharm
 .idea/
+
+vm-ubuntu-20.04/
+vm/
+utils/
